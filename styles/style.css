@@ -102,8 +102,7 @@
 }
 
 .two-columns__paragraph {
-  margin-top: 0;
-  margin-bottom: 30px;
+  margin: 0 auto 30px;
   font-size: 24px;
   font-weight: normal;
   line-height: 34px;
@@ -123,8 +122,7 @@
 
 .section-title {
   width: 60%;
-  margin: 0 auto;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
   line-height: 1.15em;
   font-size: 60px;
   font-weight: bold;
@@ -243,7 +241,6 @@
 
 .table__cell_theme_dark {
   width: 200px;
-  margin-right: 0;
   margin-top: 80px;
   z-index: 1;
 }
